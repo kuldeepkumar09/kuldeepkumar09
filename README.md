@@ -1,4 +1,4 @@
-# Hi there, I'm Kuldeep 👋
+# Hi , I'm Kuldeep 👋
 
 ### BCA Student | Aspiring Python Developer | AI & Robotics Enthusiast
 
